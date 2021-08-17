@@ -1,7 +1,7 @@
 # Specialization in Front-End with React.js
 I am going to show the different exercises for the course of Harvard on EDX of CS50: Web Development with Python and JavaScript.
 
-<table>
+<table align="center">
   <tr>
     <th>Name</th>
     <th>Repository</th>
@@ -15,7 +15,12 @@ I am going to show the different exercises for the course of Harvard on EDX of C
     <td><a href="https://github.com/Nil-Andreu/ba-sprint2">Link here</a></td>
   </tr>
   <tr>
-    <td>Sprint 3: JavaScript 1I</td>
+    <td>Sprint 3: JavaScript I</td>
     <td><a href="https://github.com/Nil-Andreu/ba-sprint3">Link here</a></td>
   </tr>
+  <tr>
+    <td>Sprint 4: JavaScript II</td>
+    <td><a href="https://github.com/Nil-Andreu/ba-sprint4">Link here</a></td>
+  </tr>
 </table>
+
