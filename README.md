@@ -27,7 +27,14 @@ I am going to show the different exercises for the course of Harvard on EDX of C
     <td><p>Will review more advanced concepts about Javascript (ES6 and therefore)</p></td>
     <td><a href="https://github.com/Nil-Andreu/ba-sprint4">Link here</a></td>
   </tr>
+<tr>
+    <td>Sprint 5: JavaScript III</td>
+    <td><p>This Spint is about learning TypeScript as well as workint with APIs</p></td>
+    <td><a href="https://github.com/Nil-Andreu/ba-sprint5">Link here</a></td>
+  </tr>
 </table>
+
+
 
 ## Webpage of the academy
 Clicking <a href="https://www.barcelonactiva.cat/es/itacademy">here</a> you can check more information about the courses that are offering, including the one I am taking.
