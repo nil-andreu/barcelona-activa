@@ -4,7 +4,7 @@ I am going to show the different exercises for the course of Harvard on EDX of C
 <table align="center">
   <tr>
     <th>Name</th>
-    <th>What is done?</th>
+    <th>What is about?</th>
     <th>Repository</th>
   </tr>
   <tr>
