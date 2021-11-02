@@ -37,6 +37,21 @@ I am going to show the different exercises for the course of Harvard on EDX of C
     <td><p>I have learnt the basic for React</p></td>
     <td><a href="https://github.com/Nil-Andreu/ba-sprint7">Link here</a></td>
   </tr>
+  <tr>
+    <td>Sprint 6: React II</td>
+    <td><p>I have learnt the basic for React</p></td>
+    <td><a href="https://github.com/Nil-Andreu/ba-sprint8">Link here</a></td>
+  </tr>
+  <tr>
+    <td>Sprint 6: React III</td>
+    <td><p>I have learnt the basic for React</p></td>
+    <td><a href="https://github.com/Nil-Andreu/ba-sprint9">Link here</a></td>
+  </tr>
+  <tr>
+    <td>Final Submission</td>
+    <td><p>I have learnt the basic for React</p></td>
+    <td><a href="https://github.com/Nil-Andreu/ba-sprint10">Link here</a></td>
+  </tr>
 </table>
 
 
