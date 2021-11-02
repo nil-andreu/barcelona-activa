@@ -38,13 +38,13 @@ I am going to show the different exercises for the course of Harvard on EDX of C
     <td><a href="https://github.com/Nil-Andreu/ba-sprint7">Link here</a></td>
   </tr>
   <tr>
-    <td>Sprint 6: React II</td>
-    <td><p>I have learnt the basic for React</p></td>
+    <td>Sprint 7: React II</td>
+    <td><p>More intermediate concepts as React Hooks and Styled Components</p></td>
     <td><a href="https://github.com/Nil-Andreu/ba-sprint8">Link here</a></td>
   </tr>
   <tr>
-    <td>Sprint 6: React III</td>
-    <td><p>I have learnt the basic for React</p></td>
+    <td>Sprint 8: React III</td>
+    <td><p>Learned about React Router</p></td>
     <td><a href="https://github.com/Nil-Andreu/ba-sprint9">Link here</a></td>
   </tr>
   <tr>
