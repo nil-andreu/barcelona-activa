@@ -30,7 +30,7 @@ I am going to show the different exercises for the course of Harvard on EDX of C
 <tr>
     <td>Sprint 5: JavaScript III</td>
     <td><p>This Spint is about learning TypeScript as well as workint with APIs</p></td>
-    <td><a href="https://github.com/Nil-Andreu/ba-sprint6">Link here</a></td>
+    <td><a href="https://github.com/Nil-Andreu/ba-sprint5">Link here</a></td>
   </tr>
   <tr>
     <td>Sprint 6: React I</td>
